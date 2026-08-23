@@ -1,0 +1,27 @@
+[14532:16668:0818/212010.031:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14532:27576:0818/212010.056:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14532:16668:0818/212010.066:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28452:7492:0818/212013.291:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FDACF343E4F0A6C5587FC706AF826BCA will be ignored
+[3104:5708:0818/212014.651:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3104:1480:0818/212014.662:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3104:1480:0818/212014.662:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3104:1480:0818/212014.663:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14532:24500:0818/212015.630:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[14532:16668:0818/212016.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[14532:16668:0818/212016.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[14532:16668:0818/212016.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[14532:16668:0818/212016.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[14532:24500:0818/212016.297:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[16960:28208:0818/212017.292:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16960:32464:0818/212017.316:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16960:32464:0818/212017.316:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16960:32464:0818/212017.317:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14532:16668:0818/212017.962:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 1.
+[14532:16668:0818/212017.962:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 2.
+[14532:16668:0818/212017.962:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 3, got 1.
+[14532:16668:0818/212017.962:ERROR:device_event_log_impl.cc(196)] [21:20:17.962] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0b95&pid_1790#0000000000005f#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[16960:28208:0818/212020.011:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14532:24500:0818/212023.854:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14532:16668:0818/220714.611:ERROR:device_event_log_impl.cc(196)] [22:07:14.362] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[14532:16668:0819/000145.838:ERROR:device_event_log_impl.cc(196)] [00:01:45.722] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[14532:16668:0819/002416.611:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
