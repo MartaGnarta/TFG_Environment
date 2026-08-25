@@ -17,9 +17,7 @@ Because there's no C++, there are no build, compile, lint, or test commands to r
 ## Repo layout note
 
 This folder is one of several sibling project folders inside the larger `TFG_Environment` git repo:
-- `Environment/` — an older, git-tracked UE project version.
 - `Environment 5.8/` — **this project**, the current working version (untracked as of writing).
-- `Environment 5.8 5.8/` — a stray duplicate/leftover copy sitting next to this one; it is not the working project, don't confuse the two.
 - `Blender/` — source 3D assets (`TFG.blend`, a Substance `.sbsar` material, `Textures/`) used to author content that gets imported into this UE project.
 
 ## Content structure
