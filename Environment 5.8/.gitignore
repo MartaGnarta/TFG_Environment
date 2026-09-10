@@ -34,4 +34,6 @@
 #################################
 # Miscellaneous Generated Files #
 #################################
+# Baked lighting/reflection data - regenerate via Build Lighting, don't track
+*_BuiltData.uasset
 # ADD AS NEED BE
